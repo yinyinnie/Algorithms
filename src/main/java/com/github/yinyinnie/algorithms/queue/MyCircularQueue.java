@@ -1,4 +1,4 @@
-package com.github.yinyinnie.algorithms;
+package com.github.yinyinnie.algorithms.queue;
 
 /**
  * just for leetcode, so the method's name looks not good.
